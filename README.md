@@ -160,7 +160,7 @@ The complete 27-page academic report is available in [`report/`](report/customer
 
 ## 👤 Authors
 
-**Morshadul Alam** — [LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · [GitHub](https://github.com/YOUR-HANDLE)
+**Morshadul Alam** — [LinkedIn](https://www.linkedin.com/in/morshadul/)
 
 Group BN — NOVA IMS, Marketing Engineering and Analytics, 2025/26
 > Joana Nazário · Laura Tavares · Mª Leonor Cunha · Morshadul Alam · Soraia Neves
